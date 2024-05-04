@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "nome_unidade": "Operativa",
+        "localizacao_unidade": {
+            "provincia": "Luanda",
+            "municipio": "Viana"
+        }
+    },
+    {
+        "id": "2",
+        "nome_unidade": "Comando Provincial de Luana",
+        "localizacao_unidade": {
+            "provincia": "Luanda",
+            "municipio": "Rangel"
+        }
+    },
+    {
+        "id": "3",
+        "nome_unidade": "Comando Geral de Angola",
+        "localizacao_unidade": {
+            "provincia": "Luanda",
+            "municipio": "Luanda"
+        }
+    },
+    {
+        "id": "4",
+        "nome_unidade": "SIC Luanda",
+        "localizacao_unidade": {
+            "provincia": "Luanda",
+            "municipio": "Belas"
+        }
+    },
+    {
+        "id": "5",
+        "nome_unidade": "Comado Provincial de Benguela",
+        "localizacao_unidade": {
+            "provincia": "Benguela",
+            "municipio": "Lobito"
+        }
+    },
+    {
+        "id": "6",
+        "nome_unidade": "Esquadra da Restinga",
+        "localizacao_unidade": {
+            "provincia": "Benguela",
+            "municipio": "Lobito"
+        }
+    },
+    {
+        "id": "7",
+        "nome_unidade": "Esquadra da Avição e Transito de São João",
+        "localizacao_unidade": {
+            "provincia": "Huambo",
+            "municipio": "São João"
+        }
+    },
+    {
+        "id": "8",
+        "nome_unidade": "Comando Princial do SME de Ondjiva",
+        "localizacao_unidade": {
+            "provincia": "Cunene",
+            "municipio": "Ondjiva"
+        }
+    },
+    {
+        "id": "9",
+        "nome_unidade": "Comarca de Viana",
+        "localizacao_unidade": {
+            "provincia": "Luanda",
+            "municipio": "Viana"
+        }
+    },
+    {
+        "id": "10",
+        "nome_unidade": "Comando da PIR",
+        "localizacao_unidade": {
+            "provincia": "Luanda",
+            "municipio": "Kilamba Kiaxe"
+        }
+    }
+]

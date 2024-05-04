@@ -1,0 +1,63 @@
+[
+    {
+        "id":"1",
+        "descricao":"3º Sargento"
+    },
+    {
+        "id":"2",
+        "descricao":"2º Sargento"
+    },
+    {
+        "id":"3",
+        "descricao":"1º Sargento"
+    },
+    {
+        "id":"4",
+        "descricao":"3º Sub-Chefe"
+    },
+    {
+        "id":"5",
+        "descricao":"2º Sub-Chefe"
+    },
+    {
+        "id":"6",
+        "descricao":"1º Sub-Chefe"
+    },
+    {
+        "id":"7",
+        "descricao":"Sub-Inspector"
+    },
+    {
+        "id":"8",
+        "descricao":"Inspector"
+    },
+    {
+        "id":"9",
+        "descricao":"Inspector-Chefe"
+    },
+    {
+        "id":"10",
+        "descricao":"Sub-Intendente"
+    },
+
+    {
+        "id":"11",
+        "descricao":"Super-Intendente"
+    },
+    {
+        "id":"12",
+        "descricao":"Super-Intendente-Chefe"
+    },
+    {
+        "id":"13",
+        "descricao":"Sub-Comissário"
+    },
+    {
+        "id":"14",
+        "descricao":"Comissário"
+    },
+    {
+        "id":"15",
+        "descricao":"Comissário-Chefe"
+    }
+]

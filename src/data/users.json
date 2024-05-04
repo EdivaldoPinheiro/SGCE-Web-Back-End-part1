@@ -1,0 +1,251 @@
+[
+    {
+        "NIP": "0003489839",
+        "nome": "Edivaldo Pinheiro",
+        "password":"000000",
+        "dt_nascimento": "20/03/2004",
+        "patente": "1º Sargento",
+        "unidade": "5",
+        "funcao": "Doctor",
+        "morada": {
+            "provincia": "Luanda",
+            "municipio": "Viana",
+            "bairro": "Estalagem",
+            "rua": "Rua Tio Pedro",
+            "n_casa": "200"
+        },
+        "tipo_acesso": "paciente"
+    },
+    {
+        "NIP": "0003489840",
+        "nome": "Eliazabeth Dias",
+        "password":"",
+        "dt_nascimento": "20/03/2000",
+        "patente": "3º Sargento",
+        "unidade": "6",
+        "funcao": "Secretaria",
+        "morada": {
+            "provincia": "Luanda",
+            "municipio": "Viana",
+            "bairro": "Caop A",
+            "rua": "rua 5",
+            "n_casa": "293"
+        },
+        "tipo_acesso": "paciente"
+    },
+    {
+        "NIP": "0003489841",
+        "nome": "Joao Bernardo",
+        "password":"123456",
+        "dt_nascimento": "04/03/1990",
+        "patente": "2º Sargento",
+        "unidade": "7",
+        "funcao": "Enfermeiro",
+        "morada": {
+            "provincia": "Benguela",
+            "municipio": "Lobito",
+            "bairro": "Lixeira",
+            "rua": "rua 3",
+            "n_casa": "340"
+        },
+        "tipo_acesso": "medico"
+    },
+    {
+        "NIP": "0003489842",
+        "nome": "Roberto Malaquias",
+        "password":"",
+        "dt_nascimento": "31/12/1985",
+        "patente": "Sub-Comissário",
+        "unidade": "10",
+        "funcao": "Investigador",
+        "morada": {
+            "provincia": "Huambo",
+            "municipio": "Huamvo",
+            "bairro": "Santo Antonio",
+            "rua": "Rua 1",
+            "n_casa": "200"
+        },
+        "tipo_acesso": "paciente"
+    },
+
+    {
+        "NIP": "0003489843",
+        "nome": "Miguel Antonio",
+        "password":"",
+        "dt_nascimento": "08/04/1992",
+        "patente": "Inspector-Chefe",
+        "unidade": "8",
+        "funcao": "Director dos RH",
+        "morada": {
+            "provincia": "Luanda",
+            "municipio": "Cazenga",
+            "bairro": "Tala-Hady",
+            "rua": "Rua 9",
+            "n_casa": "109"
+        },
+        "tipo_acesso": "paciente"
+    },
+    {
+        "NIP": "0003489844",
+        "nome": "Alex Ribeiro",
+        "password":"",
+        "dt_nascimento": "12/06/1979",
+        "patente": "Sub-Comissário",
+        "unidade": "9",
+        "funcao": "Porta Voz",
+        "morada": {
+            "provincia": "Luanda",
+            "municipio": "Talatona",
+            "bairro": "Condomínio Oceano",
+            "rua": "Rua 10",
+            "n_casa": "403"
+        },
+        "tipo_acesso": "paciente"
+    },
+    {
+        "NIP": "0003489845",
+        "nome": "Fernando Nambalo",
+        "dt_nascimento": "15/09/1980",
+        "patente": "Super-Intendente-Chefe",
+        "unidade": "1",
+        "funcao": "2º Comandante",
+        "morada": {
+            "provincia": "Cunene",
+            "municipio": "Ondjiva",
+            "bairro": "Ondjiva",
+            "rua": "Rua Boa Vista",
+            "n_casa": "01"
+        },
+        "tipo_acesso": "paciente"
+    },
+
+    {
+        "NIP": "0003489846",
+        "nome": "Edna Dala",
+        "dt_nascimento": "13/10/1993",
+        "patente": "Sub-Inspector",
+        "unidade": "2",
+        "funcao": "Chefe de Brigada",
+        "morada": {
+            "provincia": "Benguela",
+            "municipio": "Benguela",
+            "bairro": "Restinga",
+            "rua": "Ponta da Restinga",
+            "n_casa": "03"
+        },
+        "tipo_acesso": "paciente"
+    },
+    {
+        "NIP": "0003489847",
+        "nome": "Antonio Dos Santos",
+        "dt_nascimento": "23/05/1975",
+        "patente": "Super-Intendente-Chefe",
+        "unidade": "3",
+        "funcao": "Chefe Das Investigações",
+        "morada": {
+            "provincia": "Luanda",
+            "municipio": "Rangel",
+            "bairro": "Nelito Soares",
+            "rua": "Rua de Pernamacor",
+            "n_casa": "234"
+        },
+        "tipo_acesso": "paciente"
+    },
+    {
+        "NIP": "0003489848",
+        "nome": "Margarida Filipe",
+        "dt_nascimento": "27/01/1977",
+        "patente": "Comissário-Chefe",
+        "unidade": "4",
+        "funcao": "Comandante Geral de Angola",
+        "morada": {
+            "provincia": "Luanda",
+            "municipio": "Talatona",
+            "bairro": "Patriota",
+            "rua": "Rua 14",
+            "n_casa": "304"
+        },
+        "tipo_acesso": "paciente"
+    },
+    {
+        "NIP": "0003489849",
+        "nome": "Helder Chiuala",
+        "dt_nascimento": "11/05/1995",
+        "patente": "Comissário",
+        "unidade": "7",
+        "funcao": "Comandante do SIC",
+        "morada": {
+            "provincia": "Luanda",
+            "municipio": "Benfica",
+            "bairro": "Zona Verde",
+            "rua": "Sicomex",
+            "n_casa": "3542"
+        },
+        "tipo_acesso": "paciente"
+    },
+    {
+        "NIP": "0003489850",
+        "nome": "Joana Capitango",
+        "dt_nascimento": "11/05/1981",
+        "patente": "Inspector",
+        "unidade": "7",
+        "funcao": "Medica",
+        "morada": {
+            "provincia": "Luanda",
+            "municipio": "Benfica",
+            "bairro": "Zona Verde",
+            "rua": "Zona Verde",
+            "n_casa": "342"
+        },
+        "tipo_acesso": "doctor"
+    },
+    {
+        "NIP": "0003489851",
+        "nome": "Amilton Chianda",
+        "dt_nascimento": "30/01/2000",
+        "patente": "Sub-Intendente",
+        "unidade": "8",
+        "funcao": "Medica",
+        "morada": {
+            "provincia": "Luanda",
+            "municipio": "Rangel",
+            "bairro": "Vila'Alice",
+            "rua": "Rua da Liberdade",
+            "n_casa": "398"
+        },
+        "tipo_acesso": "doctor"
+    },
+    {
+        "NIP": "0003489852",
+        "nome": "Jaimes Caxito",
+        "dt_nascimento": "29/04/1978",
+        "patente": "Sub-Intendente",
+        "unidade": "8",
+        "funcao": "Medica",
+        "morada": {
+            "provincia": "Luanda",
+            "municipio": "Luanda",
+            "bairro": "Maianga",
+            "rua": "Rua da Clé",
+            "n_casa": "1389"
+        },
+        "tipo_acesso": "doctor"
+    },
+    {
+        "NIP": "#*#*#*#*#*#*#",
+        "nome": "Admin",
+        "dt_nascimento": "01/01/2000",
+        "patente": "",
+        "unidade": "",
+        "funcao": "Admin",
+        "morada": {
+            "provincia": "",
+            "municipio": "",
+            "bairro": "",
+            "rua": "",
+            "n_casa": ""
+        },
+        "tipo_acesso": "Admin"
+    }
+
+]
